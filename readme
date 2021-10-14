@@ -1,0 +1,10 @@
+The app performs autocomplete in the frontend search box. The data comes from the database.
+
+FRONTEND - React JS
+BACKEND  - Node JS
+
+To run app need to run:
+from the client  - "npm run start"
+from the server - "node server.js" 
+
+The task was completed for a lesson at the RTU university. Participants: Oybek Akhmadjonov and Arman Fayziev

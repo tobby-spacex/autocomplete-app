@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+
+}
+
+.seggestion {
+  cursor: pointer;
+}
+
+.seggestion:hover {
+  background-color: grey;
+}
