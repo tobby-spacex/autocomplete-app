@@ -10,3 +10,14 @@
 .seggestion:hover {
   background-color: grey;
 }
+
+.add_item_form {
+  display: table-caption;
+}
+
+.items_card {
+  width: 185px;
+  height: 75px;
+  border: 2px solid rgb(65, 65, 99);
+  margin-bottom: 5px;
+}
